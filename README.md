@@ -8,7 +8,7 @@ A collection of practical machine learning projects built using Python.
 
 A machine learning project focused on predicting customer churn using customer and service-related data.
 
- [View Project](./Customer-churn-predicition/)
+ [View Project](./Customer-churn-prediction/)
 
 **Status:**  In Progress
 
