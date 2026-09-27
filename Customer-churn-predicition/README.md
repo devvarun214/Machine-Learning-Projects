@@ -60,6 +60,7 @@ The dataset contains approximately 7,000 customer records.
 
 ## Project Structure
 
+```text
 customer-churn-prediction/
 │
 ├── data/
@@ -71,6 +72,7 @@ customer-churn-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Folder Description
 
@@ -82,7 +84,7 @@ Contains the customer churn dataset.
 
 Contains the Jupyter Notebook used for data analysis, visualization, preprocessing, model training, and evaluation.
 
-## README.md
+### README.md
 
 Contains the project documentation.
 
@@ -105,6 +107,7 @@ Contains the Python libraries required to run the project.
 
 The project follows these steps:
 
+```text
 Dataset
    ↓
 Data Loading
@@ -124,6 +127,8 @@ Model Training
 Model Evaluation
    ↓
 Model Comparison
+
+```
 
 ### 1. Data Loading
 
@@ -331,5 +336,5 @@ These improvements will form the next production/MLOps version of the project.
 
 ### Devvarun Nagaram
 
-This project was created as part of a practical journey in Python, Machine Learning.
+This project was created as part of a practical journey in Python and Machine Learning.
 
