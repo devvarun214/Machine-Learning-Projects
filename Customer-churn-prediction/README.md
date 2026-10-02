@@ -43,8 +43,6 @@ Decision Tree
    ↓
 Random Forest
    ↓
-Model Evaluation
-   ↓
 Model Comparison
    ↓
 Conclusion
@@ -78,12 +76,14 @@ The dataset contains customer information including:
 - Monthly Charges
 - Total Charges
 - Churn
-- Data Preparation and Analysis
 
-## The project includes the following data preparation and analysis steps:
+## Data Preparation and Analysis
+
+The project includes the following data preparation and analysis steps:
 
 - Dataset shape and structure analysis
 - Data type inspection
+- Summary statistics
 - Missing value identification and handling
 - Duplicate record checking
 - Removal of the customer ID from modeling
